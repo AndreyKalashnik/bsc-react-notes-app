@@ -1,0 +1,25 @@
+{
+  "short_name": "Notes App",
+  "name": "Create Notes Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "64x64"
+    },
+    {
+      "src": "logo.svg",
+      "type": "image/svg",
+      "sizes": "267x150"
+    },
+    {
+      "src": "logo.svg",
+      "type": "image/svg",
+      "sizes": "267x150"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ccc"
+}

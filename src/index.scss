@@ -1,0 +1,14 @@
+@import "bulma";
+
+.center, .center-column, .top, .left, .right, .bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left {
+  justify-content: flex-start;
+}
+.right {
+  justify-content: flex-end;
+}
+  
