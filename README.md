@@ -1,7 +1,7 @@
 ## Description
 SPA based on React library and Redux state management, Bulma as a UI library, Redux-saga as a side effect manager. App contains basic CRUD functions of persistent storage, alongside with internationalization in English and Czech languages.
 
-### [Deploy preview]:https://amazing-mcnulty-45a0ca.netlify.com/
+### [Deploy preview](https://amazing-mcnulty-45a0ca.netlify.com/)
 
 ### Available Scripts
 
